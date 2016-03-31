@@ -41,7 +41,7 @@ def print_items(items):
 
 
 def primary(url):
-    """Print each word from a text document from a URL.
+    """Print each word from a text document obtained from a URL.
 
     Args:
         url: The URL of a UTF-8 document.
